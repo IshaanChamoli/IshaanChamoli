@@ -15,9 +15,9 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign.
 
 <h3>📫 How to reach me:</h3>
 <ul>
-<li><a href="mailto:email@ishaanchamoli.com?">Email</a></li>
-<li><a href="https://www.linkedin.com/in/ishaanchamoli"/>LinkedIn</a></li>
-<li><a href="ishaanchamoli.com">My website</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/in/ishaanchamoli"/>LinkedIn</a></li>
+<li><a target="_blank" href="ishaanchamoli.com">My website</a></li>
+<li>or get in touch with me at email[at]ishaanchamoli[dot]com! </li>
 </ul>
 
 
