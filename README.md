@@ -2,18 +2,18 @@
 <hr>
 I'm a Computer Science student at the University of Illinois Urbana-Champaign.
 
-<h4>💡 What I'm interested in</h4>
+<h3>💡 What I'm interested in</h3>
 
 <i>I believe the next wave of technological disruption, propelled by startups, is going to take place in rapidly developing countries (like India!), creating a world that's currently unimaginable, in which I hope to play an important role.</i> 
 
-<h4>👨🏽‍🎓Here's what I'm currently learning:</h4>
+<h3>👨🏽‍🎓Here's what I'm currently learning:</h3>
 <ul>
   <li>Android App Development</li>
   <li>Responsive Web Design</li>
   <li>Machine Learning</li>
 </ul>
 
-<h4>📫 How to reach me:</h4>
+<h3>📫 How to reach me:</h3>
 <ul>
 <li><a href="mailto:email@ishaanchamoli.com">Email</a></li>
 <li><a href="https://www.linkedin.com/in/ishaanchamoli"/>LinkedIn</a></li>
