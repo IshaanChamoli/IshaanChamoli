@@ -10,8 +10,7 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign.
 <ul>
   <li>Machine Learning</li>
   <li>Full Stack Web Dev</li>
-  (and soon=>)
-  <li>VR Game Dev</li>
+  <li>Virtual Reality</li>
   <li>DSA for Competitive Programming</li>
 </ul>
 
