@@ -8,8 +8,9 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign.
 
 <h3>👨🏽‍🎓Here's what I'm currently learning:</h3>
 <ul>
-  <li>Full Stack Web Dev</li>
   <li>Machine Learning</li>
+  <li>Full Stack Web Dev</li>
+  (and soon=>)
   <li>VR Game Dev</li>
   <li>DSA for Competitive Programming</li>
 </ul>
