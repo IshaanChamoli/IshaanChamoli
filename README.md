@@ -1,6 +1,6 @@
 <h1>👀 Hey! My name is Ishaan.</h1>
 <hr>
-I'm a Computer Science student at the University of Illinois Urbana-Champaign...<br>
+I'm a Computer Science student at the University of Illinois Urbana-Champaign...<br><br>
 
 I'm really excited about the future of technology, especially the role that startups (and <a href="https://www.youtube.com/watch?v=xL1MOOD5Ox8"> anti-startups!</a>) will play in shaping it. As part of that future, I can't wait to build for the developing world - to change education and the economy as we know it.<br>
 
