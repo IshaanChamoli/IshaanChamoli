@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign...
 
 I'm really excited about the future of technology, especially the role that startups (and <a href="https://www.youtube.com/watch?v=xL1MOOD5Ox8"> anti-startups!</a>) will play in shaping it. As part of that future, I can't wait to build for the developing world - to change education and the economy as we know it.<br>
 
-<i>“The people who are crazy enough to think they can change the world are the ones who do.”</i>
+<i>“The people who are crazy enough to think they can change the world are the ones who do.”</i><br>
 I once spent an hour pacing up and down my room, memorizing that entire speech by Steve Jobs. It's so cool!
 
 
