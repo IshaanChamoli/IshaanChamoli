@@ -15,14 +15,6 @@ I once spent an hour pacing up and down my room, memorizing that entire speech b
   <li>DSA for Competitive Programming</li>
 </ul>
 
-<h3>📫 How to reach me:</h3>
-<ul>
-<li><a target="_blank" href="https://ishaanchamoli.com">IshaanChamoli.com</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/in/ishaanchamoli"/>LinkedIn</a></li>
-<li>or write to me at chamoli2[at]illinois[dot]edu </li>
-</ul>
-
-
 <!---
 IshaanChamoli/IshaanChamoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
